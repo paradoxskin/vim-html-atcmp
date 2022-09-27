@@ -5,3 +5,4 @@ autocmd Filetype html inoremap <buffer> <c-k> <><Esc>i
 autocmd Filetype html inoremap <buffer> <c-j> <Esc>vi>"xyo</<Esc>"xpa><Esc>O
 autocmd Filetype html inoremap <buffer> <c-h> <Esc>f<F>i
 autocmd Filetype html inoremap <buffer> <c-l> <Esc>vi>"xyf>a</<Esc>"xpa><Esc>F<i
+autocmd Filetype html inoremap <buffer> <c-o> <? ?><Esc>2hi
