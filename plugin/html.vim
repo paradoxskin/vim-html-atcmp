@@ -1,6 +1,6 @@
 au Filetype html noremap  <buffer> <c-k> a<><Esc>i
-au Filetype html noremap  <buffer> vo>   /><CR>:nohl<CR>Nwmb/<<CR>:nohl<CR>beme`bv`e
-au Filetype html noremap  <buffer> vo<   /><CR>:nohl<CR>Nwmb/<<CR>:nohl<CR>beme`bv`e
+"au Filetype html noremap  <buffer> vo>   /><CR>:nohl<CR>Nwmb/<<CR>:nohl<CR>beme`bv`e
+"au Filetype html noremap  <buffer> vo<   /><CR>:nohl<CR>Nwmb/<<CR>:nohl<CR>beme`bv`e
 au Filetype html inoremap <buffer> <c-k> <><Esc>i
 au Filetype html inoremap <buffer> <c-j> <Esc>vi>"xyo</<Esc>"xpa><Esc>O<tab>
 au Filetype html inoremap <buffer> <c-h> <Esc>f<F>i<space>
